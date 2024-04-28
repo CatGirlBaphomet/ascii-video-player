@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "So55ItX/ImtC6Ly9H5GVzSfpAmlFsG8mhQ/2gw9+5iNJEfWPCK6XHQBY+Oz+PIWqx93sdC75tDoz2omKpjyxKA==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\ascii\\ascii\\ascii\\ascii.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beren\\.nuget\\packages\\opencvsharp4\\4.9.0.20240103\\opencvsharp4.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\beren\\.nuget\\packages\\opencvsharp4.runtime.win\\4.9.0.20240103\\opencvsharp4.runtime.win.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\beren\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\beren\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
