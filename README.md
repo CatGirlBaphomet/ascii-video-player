@@ -18,11 +18,8 @@ Replace `<path-to-video-file>` with the path to the video file you want to play.
 
 ## TODO
 
-- [ ] Add support for AVI video files
 - [ ] Add support for MKV video files
 - [ ] Add support for MOV video files
-- [ ] Add support for WMV video files
-- [ ] Add support for FLV video files
-- [ ] Add support for MPG video files
 - [ ] Add support for WebM video files
-- [ ] Add support for OGV video files
+- [ ] Add support for MPG video files
+- [ ] Add support for Other video files
